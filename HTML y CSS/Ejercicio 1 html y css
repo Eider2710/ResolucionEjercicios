@@ -1,0 +1,17 @@
+<! DOCTYPE html>
+<html>
+  <head>
+<tittle>Ejercicios de introduccion a html en OpenBootcamp</tittle>
+  </head>
+<body>
+    <!--Este es mi primer comentario de dos lineas-->
+    <!--Aprendiendo a documentar mi codigo con Openbootcamp-->
+  <div>
+<ul>
+<li><a href="https://youtu.be/qhUSktj8clc">Colombia vs Inglaterra</a></li>
+<li><a href="https://youtu.be/nhstrcO0ZcQ">Gol de Yerry mima</a></li>
+<li><a href="https://youtu.be/46ERBBG1tX4">Narracion del gol de yerry mina</a></li>
+</ul>
+  </div>
+</body>
+</html>
